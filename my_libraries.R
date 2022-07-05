@@ -1,5 +1,6 @@
 
 pacman::p_load_current_gh("tidyverse/tidyverse",
+                          "tidyverse/tidymodels",
                           "ddsjoberg/gtsummary",
                           "mayoverse/arsenal",
                           "rstudio/gt"
