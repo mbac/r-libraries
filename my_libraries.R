@@ -11,4 +11,5 @@ pacman::p_load(rcompanion) |> suppressMessages()
 pacman::p_load("readxl") |> suppressMessages()
 
 # File with useful functions for descriptives:
-source(file = "descriptives.R")
+# source(file = "descriptives.R")
+# Disabled when working remotely
