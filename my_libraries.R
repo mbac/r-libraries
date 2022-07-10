@@ -4,7 +4,8 @@ pacman::p_load_current_gh("tidyverse/tidyverse",
                           "sfirke/janitor",
                           "ddsjoberg/gtsummary",
                           "mayoverse/arsenal",
-                          "rstudio/gt"
+                          "rstudio/gt",
+                          "jeroen/curl"
                           ) |>
   suppressMessages()
 
